@@ -1,13 +1,12 @@
 {
-    "name": "erenkucukersoftware/amazon-mws-brugs",
+    "name": "boutiquerugs/amazon-mws-brugs",
     "description": "Library to interface with Amazon MWS",
     "license": "MIT",
-    "keywords": ["amazon", "mws"],
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Michiel Meertens",
-            "email": "meertensmichiel28@gmail.com"
+            "name": "Eren Kucuker",
+            "email": "erenkucuker@gmail.com"
         }
     ],
     "require": {
